@@ -24,11 +24,9 @@ An affordable autonomous vehicle platform built using Raspberry Pi and LEGO EV3.
 - MPU6050 Gyroscope
 - Drone (optional, emergency only)
 
-## 📁 Project Structure
-
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/your_username/elliot-autonomous-car.git
+git clone https://github.com/BasharLoudah/elliot-autonomous-car.git
 cd elliot-autonomous-car
 pip install -r requirements.txt
