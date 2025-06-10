@@ -30,3 +30,8 @@ An affordable autonomous vehicle platform built using Raspberry Pi and LEGO EV3.
 git clone https://github.com/BasharLoudah/elliot-autonomous-car.git
 cd elliot-autonomous-car
 pip install -r requirements.txt
+```
+
+# === Dataset Access ===
+# To obtain the dataset (autonomous-driving-car-dataset),
+please contact: basharlee165@gmail.com
