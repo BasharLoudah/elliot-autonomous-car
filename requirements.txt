@@ -1,0 +1,25 @@
+# === Core Deep Learning ===
+torch>=1.12.0
+torchvision>=0.13.0
+opencv-python
+matplotlib
+numpy
+pillow
+scikit-learn
+
+# === Jupyter & Development ===
+notebook
+ipykernel
+tqdm
+
+# === LEGO EV3 / Communication ===
+pyserial
+python-socketio
+evdev                         # For Linux-based EV3 control (if used)
+
+# === Data & Dashboard Processing ===
+pandas
+openpyxl
+
+# === YOLOv11 ===
+# use the pre_training model
